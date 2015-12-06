@@ -44,4 +44,4 @@ To send files:
 upld [path of file]
 ```
 
-![](https://raw.githubusercontent.com/iostreamer-X/MobileMessagingServer/master/assets/scrsht.png)
+![](https://raw.githubusercontent.com/iostreamer-X/hostel/master/assets/scrsht.png)
