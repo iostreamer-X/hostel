@@ -43,3 +43,5 @@ To send files:
 ```shell
 upld [path of file]
 ```
+
+![](hostel/assets/scrsht.png)
