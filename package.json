@@ -1,0 +1,23 @@
+{
+  "name": "hostel",
+  "version": "1.0.0",
+  "description": "A messaging platform for when Internet goes down but you got LAN.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Chat",
+    "LAN"
+  ],
+  "author": "iostreamer",
+  "license": "MIT",
+  "preferGlobal": true,
+  "bin": {
+    "hostel": "index.js"
+  },
+  "dependencies": {
+    "cli-color": "^1.1.0",
+    "express": "^4.13.3",
+    "underscore": "^1.8.3"
+  }
+}
