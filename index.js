@@ -13,7 +13,7 @@ var command = new events.EventEmitter();
 var username;
 var myip;
 var receiver
-var users=[]
+var users=[{name:'alpha'},{name:'corvo attano'},{name:'max payne'}]
 var userid={}
 var selfie={}
 var requests={}
